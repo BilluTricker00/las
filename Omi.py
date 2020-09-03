@@ -524,7 +524,7 @@ def pilih_super():
                 ___)( )(___
                (((__) (__)))"""
 	
-    raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
+        raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
 if __name__ == '__main__':
